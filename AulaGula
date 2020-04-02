@@ -1,1 +1,42 @@
+<!DOCTYPE html>
 
+<html>
+
+<head>
+	<title>Exemplo de documento</title>
+	< meta charset="utf-8">
+</head>
+
+<body>
+
+	<section id "geral">
+
+		<header id="BannerGeral>
+			
+		<h1> Aqui ficará localizado o Banner</h1>
+		
+		</header><!--fim da header banner geral-->
+
+		<nav> id ="Topo">
+		</nav><!-- fim da Nav Topo-->
+
+			<article id ="content>
+				<h3> Aqui ficará localizado o conteúdo da página </h3>
+			</article><!--fim da article--> 
+
+		<aside id ="sidebar">
+			<h4> Aqui ficará localizado a nossa Side Bar</h4>
+		</aside><!-- fim da asidebar-->
+
+		<footer id = "rodape>
+
+		<h2> Aqui ficará localizado o rodapé></h2>
+
+		</footer><!--fim do footer do rodapé-->
+
+
+	</section><!-- fim da section geral>
+
+</body>
+
+</html>
